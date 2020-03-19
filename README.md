@@ -1,0 +1,3 @@
+# HelloFx
+
+JavaFxのIntelliJ & Maven のサンプル
